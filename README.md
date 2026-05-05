@@ -1,10 +1,10 @@
-# iFix
+# home services
 
-![iFix Banner](img/banner.png)
+![home services Banner](img/banner.png)
 
 ## Background
 
-Project repository of team iFix for mSpace Codeblast Hackathon 2023
+Project repository of team home services for mSpace Codeblast Hackathon 2023
 
 ### Problem statement
 
@@ -12,7 +12,7 @@ In today's fast-paced world, finding skilled professionals for essential househo
 
 ## Screenshots
 
-![iFix Screenshots](img/screenshots.png)
+![home services Screenshots](img/screenshots.png)
 
 ## Key Features
 
